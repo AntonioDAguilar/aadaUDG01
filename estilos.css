@@ -1,0 +1,233 @@
+*{
+margin: 0px;
+}
+
+:root {
+--color1 : #FFFFFF;
+}
+
+#fuera{
+margin:auto;
+background:#FCCC04;	
+width: 1000px;
+height: 1550px;
+padding: 0px;
+border: #000000 solid 1px;
+overflow:hidden;	
+    
+
+}
+#redes{
+width: 49px;
+height: 100px;
+float:right;
+background: var(--color1);
+position: absolute;
+margin: 100px 0px 0px 0px;
+position: fixed;
+}
+
+#contenedor {
+margin:auto;
+background: var(--color1);	
+width: 900px;
+height: 1550px;
+padding: 0px;
+border: #000000 solid 1px;
+overflow:hidden;	
+
+}
+
+#nombre {
+
+width: 410px;
+float:left;
+font-family:"calibri";
+font-size:20px;
+height: 1500px;
+margin:35px 20px 20px 20px ;
+
+
+}
+#caja2{
+background: var(--color1);
+width: 445px;
+float:left;
+font-family:"calibri";
+font-size:20px;
+height: 1500px;
+margin-top:0px;
+padding:0px;
+
+
+}
+#software{
+width: 180px;
+float:left;
+height: 150px;
+margin:15px 0px 0px -60px;
+padding:0px;
+
+}
+#software2{
+width: 180px;
+float:left;
+height: 150px;
+margin:15px 0px 0px 0px;
+padding:0px;
+
+}
+
+#gris{
+width: 150px;
+float:left;
+height: 12px;
+margin:5px 0px 0px 0px;
+padding:0px;
+background:#FFBF00;	
+}
+#gris2{
+width: 150px;
+float:left;
+height: 12px;
+margin:13px 0px 0px 0px;
+padding:0px;
+background:#FFBF00;	
+}
+#yellow{
+width: 90px;
+float:left;
+height: 12px;
+margin:5px 0px 0px -90px;
+padding:0px;
+background:#2E2E2E;	
+}
+#yellow2{
+width: 80px;
+float:left;
+height: 12px;
+margin:13px 0px 0px -80px;
+padding:0px;
+background:#2E2E2E;	
+}
+
+#yellow4{
+width: 10px;
+float:left;
+height: 12px;
+margin:13px 0px 0px -10px;
+padding:0px;
+background:#2E2E2E;	
+}
+#yellow5{
+width: 60px;
+float:left;
+height: 12px;
+margin:13px 0px 0px -60px;
+padding:0px;
+background:#2E2E2E;	
+}
+	
+#habilidadesB{
+width: 180px;
+float:left;
+height: 150px;
+margin:0px 0px 0px 10px;
+padding:0px;
+
+}
+#habilidadesB2{
+width: 180px;
+float:left;
+height: 150px;
+padding:0px;
+
+}
+#experiencia{
+position:relative;
+margin: 230px 0px 0px 40px;
+	
+}
+
+#mail{
+position:absolute;
+margin:65px 0px 0px 100px;
+}
+
+#telefono{
+position:absolute;
+margin:105px 0px 0px 120px;
+}
+
+#ubicacion{
+position:absolute;
+margin:135px 0px 0px 140px;
+}
+
+.imagen1{
+width:450px;
+height:150px;	
+margin: 35px 0px 0px 0px;
+position: absolute;
+}
+.text{
+text-align:justify;
+font-family: 'lato', sans-serif;
+font-size: 18px;
+}
+.imagen2{
+margin:10px;
+
+}
+.textoS{
+font-family:calibri;	
+}
+.fotoperfil {
+width:90px;
+height:100px;
+position: absolute;
+margin: 60px 0px 0px 335px;
+}
+.imagen5{
+position: relative;
+margin: 20px 0px 0px -20px;	
+}
+
+.texto{
+font-family: 'lato', sans-serif;
+font-size: 18px;
+font-weight: normal;
+}
+
+.imagen6{
+margin:10px;
+}
+
+.imagen7{
+width:30px;
+height:30px;
+position: absolute;
+margin: 60px 0px 0px 60px;
+}
+.imagen8{
+width:30px;
+height:30px;
+position: absolute;
+margin: 100px 0px 0px 80px;
+}
+.imagen9{
+width:30px;
+height:30px;
+position: absolute;
+margin: 140px 0px 0px 100px;
+}
+
+.textoarriba{
+font-family: 'lato', sans-serif;
+
+font-size: 16px;
+}
+.icone{
+width: 49px;
+height: 50px;
+}
